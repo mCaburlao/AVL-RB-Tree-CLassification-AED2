@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "C. Caburlão"
+  given-names: "Marcela"
+- family-names: "de Sousa Silva"
+  given-names: "Alison"
+- family-names: "G. Soares"
+  given-names: "Breno"
+- family-names: "B. Lima"
+  given-names: "Wallace"
+- family-names: "Augusto Flor de Souza"
+  given-names: "Felipe"
+- family-names: "L. Conti"
+  given-names: "Isabela"
+title: "Árvores Rubro Negras e Árvores AVL: Um estudo comparativo e preditivo na botânica"
+version: 1.0
+date-released: 2024-11-20
+url: "https://github.com/mCaburlao/AVL-RB-Tree-CLassification-AED2"
